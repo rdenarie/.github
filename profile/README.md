@@ -1,4 +1,6 @@
-## Hi there 👋
+![eXo Platform banner](https://github.com/exoplatform/.github/raw/main/profile/exoplatform-banner.png)
+
+eXo Platform is a full-featured digital workplace software with everything your organization need to work efficiently, smartly integrated for a compelling user experience. 
 
 <!--
 
