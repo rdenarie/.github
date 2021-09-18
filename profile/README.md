@@ -2,6 +2,8 @@
 
 eXo Platform is a full-featured digital workplace software with everything your organization need to work efficiently, smartly integrated for a compelling user experience. 
 
+- [Roadmap](https://github.com/orgs/exoplatform/projects/2)
+- [How to Contribute](https://developer.exoplatform.org/#id-contributions)
 <!--
 
 **Here are some ideas to get you started:**
