@@ -4,7 +4,7 @@ eXo Platform is a full-featured digital workplace software with everything your 
 
 - [Roadmap](https://github.com/orgs/exoplatform/projects/2)
 - [How to Contribute](https://developer.exoplatform.org/#id-contributions)
-- [How to run](https://github.com/exo-docker/exo#readme) : ```docker pull exoplatform/exo```
+- [How to run](https://github.com/exo-docker/exo#readme) : ```docker run exoplatform/exo```
 <!--
 
 **Here are some ideas to get you started:**
