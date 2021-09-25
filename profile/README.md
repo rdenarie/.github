@@ -2,7 +2,7 @@
 
 eXo Platform is an extensible open source Digital Workplace software that helps people work together. It comes with an extensive set of features spanning all work areas : 
 - Collaboration : spaces, web meetings, chat, agenda and tasks
-- Communication social networking, news and analytics
+- Communication : social networking, news and analytics
 - Knowledge : notes, documents, categories and  search 
 - Engagement : gamification, kudos and virtual currency  
 
