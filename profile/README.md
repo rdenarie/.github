@@ -6,14 +6,15 @@ eXo Platform is an extensible open source Digital Workplace software that helps 
 - Knowledge : notes, documents, categories and  search 
 - Engagement : gamification, kudos and virtual currency  
 
-
+##
 - [How to run](https://github.com/exo-docker/exo#readme) : ```docker run exoplatform/exo```
 - [Documentation](https://docs.exoplatform.org/en/latest/)
 - [Community](https://github.com/exoplatform/exo-community)
 - [Roadmap](https://github.com/orgs/exoplatform/projects/2)
 - License : [AGPL](https://github.com/exoplatform/.github/blob/main/LICENSE)
 
-eXo Platform is powered by [Meeds](https://github.com/meeds-io/).
+##
+eXo Platform is proudly powered by [Meeds](https://github.com/meeds-io/).
 <!--
 
 **Here are some ideas to get you started:**
