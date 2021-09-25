@@ -7,6 +7,8 @@ eXo Platform is a full-featured digital workplace software with everything your 
 - [How to run](https://github.com/exo-docker/exo#readme) : ```docker run exoplatform/exo```
 - [Documentation](https://docs.exoplatform.org/en/latest/)
 - License : [AGPL](https://github.com/exoplatform/.github/blob/main/LICENSE)
+
+eXo Platform is powered by [Meeds](https://github.com/meeds-io/).
 <!--
 
 **Here are some ideas to get you started:**
