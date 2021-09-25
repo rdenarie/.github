@@ -6,7 +6,7 @@ eXo Platform is an extensible open source Digital Workplace software that helps 
 - Knowledge : notes, documents, categories and  search 
 - Engagement : gamification, kudos and virtual currency  
 
-##
+## 
 - [How to run](https://github.com/exo-docker/exo#readme) : ```docker run exoplatform/exo```
 - [Documentation](https://docs.exoplatform.org/en/latest/)
 - [Community](https://github.com/exoplatform/exo-community)
@@ -16,7 +16,9 @@ eXo Platform is an extensible open source Digital Workplace software that helps 
 ##
 eXo Platform centers on the user and provides a smooth experience thanks to a modern architecture and a software stack based on [Vuejs](https://github.com/vuejs)/[Vuetify](https://github.com/vuetifyjs) and [Java](https://github.com/openjdk/).
 
-It proudly builds on top of fantastic open source software such as [ElasticSearch](https://github.com/elastic), [Tomcat](https://github.com/apache/tomcat), [Jitsi](https://github.com/jitsi),  [OnlyOffice](https://github.com/ONLYOFFICE/DocumentServer) and [Meeds](https://github.com/meeds-io/). 
+It proudly builds on top of fantastic OSS such as [ElasticSearch](https://github.com/elastic), [Tomcat](https://github.com/apache/tomcat), [Jitsi](https://github.com/jitsi),  [OnlyOffice](https://github.com/ONLYOFFICE/DocumentServer) and [Meeds](https://github.com/meeds-io/). 
+
+To get involved, read our [Contributing](https://github.com/exoplatform/exo-community/blob/main/CONTRIBUTING.md) guidelines.
 
 <!--
 
