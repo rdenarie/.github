@@ -3,11 +3,10 @@
 eXo Platform is a full-featured digital workplace software with everything your organization need to work efficiently, smartly integrated for a compelling user experience. 
 
 
-- [Roadmap](https://github.com/orgs/exoplatform/projects/2)
-- [How to Contribute](https://developer.exoplatform.org/#id-contributions)
 - [How to run](https://github.com/exo-docker/exo#readme) : ```docker run exoplatform/exo```
 - [Documentation](https://docs.exoplatform.org/en/latest/)
-- [Community Ressources & Discussions](https://github.com/exoplatform/exo-community)
+- [Community](https://github.com/exoplatform/exo-community)
+- [Roadmap](https://github.com/orgs/exoplatform/projects/2)
 - License : [AGPL](https://github.com/exoplatform/.github/blob/main/LICENSE)
 
 eXo Platform is powered by [Meeds](https://github.com/meeds-io/).
