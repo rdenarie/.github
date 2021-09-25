@@ -1,6 +1,10 @@
 ![eXo Platform banner](https://github.com/exoplatform/.github/raw/main/profile/exoplatform-banner.png)
 
-eXo Platform is an open source, and extensible digital collaboration software to help people in an organization work better together through  collaboration (spaces, video conferencing, chat, agenda, tasks), communication (branding, news and analytics), knowledge (notes, documents) and engagement (social networking, gamification, kudos and rewards).  
+eXo Platform is an extensible open source Digital Workplace software that helps people work together. It comes with an extensive set of features spanning all work areas : 
+- Collaboration : spaces, web meetings, chat, agenda and tasks
+- Communication social networking, news and analytics
+- Knowledge : notes, documents, categories and  search 
+- Engagement : gamification, kudos and virtual currency  
 
 
 - [How to run](https://github.com/exo-docker/exo#readme) : ```docker run exoplatform/exo```
