@@ -14,7 +14,10 @@ eXo Platform is an extensible open source Digital Workplace software that helps 
 - License : [AGPL](https://github.com/exoplatform/.github/blob/main/LICENSE)
 
 ##
-eXo Platform is proudly powered by [Meeds](https://github.com/meeds-io/).
+eXo Platform centers on the user and provides a smooth experience thanks to a modern architecture and a software stack based on [Vuejs](https://github.com/vuejs)/[Vuetify](https://github.com/vuetifyjs) and [Java](https://github.com/openjdk/).
+
+It proudly builds on top of fantastic open source software such as [ElasticSearch](https://github.com/elastic), [Tomcat](https://github.com/apache/tomcat), [Jitsi](https://github.com/jitsi),  [OnlyOffice](https://github.com/ONLYOFFICE/DocumentServer) and [Meeds](https://github.com/meeds-io/). 
+
 <!--
 
 **Here are some ideas to get you started:**
