@@ -9,7 +9,7 @@ eXo Platform is an extensible open source Digital Workplace software that helps 
 ## 
 - [How to run](https://github.com/exo-docker/exo#readme) : ```docker run exoplatform/exo```
 - [Documentation](https://docs.exoplatform.org/en/latest/)
-- [Community](https://github.com/exoplatform/exo-community)
+- [The Tribe](https://github.com/exoplatform/exo-tribe) : eXo community ressources and discussions
 - [Roadmap](https://github.com/orgs/exoplatform/projects/2)
 - License : [AGPL](https://github.com/exoplatform/.github/blob/main/LICENSE)
 
@@ -18,7 +18,7 @@ eXo Platform centers on the user and provides a smooth experience thanks to a mo
 
 It proudly builds on top of fantastic OSS such as [ElasticSearch](https://github.com/elastic), [Tomcat](https://github.com/apache/tomcat), [Jitsi](https://github.com/jitsi),  [OnlyOffice](https://github.com/ONLYOFFICE/DocumentServer) and [Meeds](https://github.com/meeds-io/). 
 
-To get involved, read our [Contributing](https://github.com/exoplatform/exo-community/blob/main/CONTRIBUTING.md) guidelines.
+To get involved, read our [Contributing](https://github.com/exoplatform/exo-tribe/blob/main/CONTRIBUTING.md) guidelines.
 
 <!--
 
